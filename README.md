@@ -15,4 +15,4 @@ $java Program.class GSF-9368 16-05-2019 07:40
 ## Unit Tests
 This Application has Unit Test, for certain use cases. The Unit Test Runner is in picoplaca.test package.
 
-### This project was developesd with Eclipse IDE
+### This project was developed with Eclipse IDE
