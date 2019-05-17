@@ -12,6 +12,12 @@ This applications has a Executable Class called "Program".  It will accept param
 
 $java Program.class GSF-9368 16-05-2019 07:40
 
+It will accept only complete License Plate Numbers (AAAA-#### or AAA####).
+
+It will work with the following date format, as String: dd-mm-yyyy
+
+It will work with the following time format, as String: HH:mm, in 24hr. format
+
 ## Unit Tests
 This Application has Unit Test, for certain use cases. The Unit Test Runner is in picoplaca.test package.
 
