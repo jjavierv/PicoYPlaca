@@ -8,9 +8,9 @@ Currently, Quito's Municipality mandates that license plates which finishes with
 Also, Pico y Placa only works from 7:00 to 9:30 and 16:00 to 19:30.
 
 ## Input Parameters
-This applications has a Executable Class called "Program".  Is will accept parameters as a command line application, for example:
+This applications has a Executable Class called "Program".  It will accept parameters as a command line application, for example:
 
 $java Program.class GSF-9368 16-05-2019 07:40
 
 ## Unit Tests
-This Application has Unit Test, for certain use cases. 
+This Application has Unit Test, for certain use cases. The Unit Test Runner is in picoplaca.test package.
